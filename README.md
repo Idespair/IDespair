@@ -1,5 +1,7 @@
 ### Hi there 👋
+I'm Kawan Rodrigues, a brazilian developer passionate about computers and programming
 
+Currently focused on learning Java and Python.
 <!--
 **Idespair/IDespair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
