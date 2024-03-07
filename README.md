@@ -1,7 +1,7 @@
 # Welcome to my world! 👋
 
 ## I'm Kawan Rodrigues, a brazilian developer passionate about computers and programming.
- Focused on backend and cloud development
+ Focused on learning backend and cloud development
 
 My stack includes:
 *    ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
